@@ -1,0 +1,29 @@
+#lastUpdate p { display:inline; }
+body {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 2em;
+  }
+header {
+    line-height: 5em;
+    text-align: center;
+    color: white;
+    background-color: rgb(82, 112, 204);
+    border-radius:10px 10px 10px 10px;
+  }  
+  img {
+      float:right;
+      background-color: rgb(201, 197, 238);
+      border: 30px;
+      padding: 0.1em;
+      border: 3px solid #200d66;
+      box-shadow: 5px 5px 5px #999;
+  }
+  footer{
+    line-height: 1em;
+    text-align: center;
+    color: white;
+    background-color: rgb(82, 112, 204); 
+    border-radius:10px 10px 10px 10px;
+  }
