@@ -14,10 +14,10 @@ header {
   }  
   img {
       float:right;
-      background-color: white;
+      background-color: rgb(201, 197, 238);
       border: 30px;
       padding: 0.1em;
-      border: 3px solid #130108;
+      border: 3px solid #200d66;
       box-shadow: 5px 5px 5px #999;
   }
   footer{
