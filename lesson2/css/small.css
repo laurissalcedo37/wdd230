@@ -1,0 +1,57 @@
+a {
+    color: rgb(31, 3, 83);
+    font-family: 'Farsan', monospace;
+  }
+
+  body {
+    font-family: 'Fredericka the Great', sans-serif;
+  }
+  
+  header {
+    background-color: rgb(17, 160, 204);
+    color: rgb(0, 0, 0);
+    justify-content: space-between;
+    border-radius: 5px;
+  }
+  main {
+    display: grid;
+    margin: auto;
+  }
+  section {
+    background-color: rgb(170, 218, 233);
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+  }
+  h1 {
+    padding-top: 15px;
+    text-align: center;
+    margin-bottom: -10px;
+  }
+
+  h2 {
+      color: rgb(15, 1, 1);
+      justify-content: space-evenly;
+  }
+  h3 {
+    color: rgb(0, 0, 0);
+  }
+  p {
+    font-family: 'Farsan', monospace;
+    color:	rgb(5, 3, 0);
+    font-size: 5mm;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+  }
+  footer {
+    background-color: rgb(17, 160, 204);
+    color: rgb(10, 7, 0);
+    text-align: center;
+    border-radius: 5px;
+    padding-top: 25px;
+  }
