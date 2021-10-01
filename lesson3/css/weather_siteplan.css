@@ -1,0 +1,99 @@
+a {
+    color: red;
+  }
+  
+  li a:hover {
+    background-color: #FBE5B1;
+  }
+  header {
+    background-color: #FBE5B1;
+    padding-bottom: 22px;
+  }
+  body {
+    font-family: 'Roboto Mono', sans-serif;
+    background-color: #AADDCC;
+    color: #001F29;
+  }
+  main {
+    display: grid;
+    margin: auto;
+  }
+  section {
+    background-color: whitesmoke;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+  }
+  
+  
+  h1 {
+    padding-top: 15px;
+    text-align: center;
+  }
+  
+  h3, h2, h4 {  
+    padding-bottom: 8px;
+    text-align: center;
+  }
+  
+  nav {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #DF6101;
+    text-align: center;
+    box-shadow: 0 2px 15px white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+  }
+  img {
+    height: 150px;
+    width: auto;
+    align-self: center;
+    box-shadow: 0 2px 15px black;
+  }
+
+  #colorone {
+    background-color: #AADDCC;
+    width: 50%;
+    box-shadow: 0 2px 15px black;
+  }
+  
+  #colortwo {
+    background-color: #FBE5B1;
+    width: 50%;
+  }
+  
+  #colorthree {
+    background-color: #DF6101;
+    width: 50%;
+  }
+  
+  #colorfour {
+    background-color: #AADDCC;
+    color: #001F29;
+    width: 50%;
+    box-shadow: 0 2px 15px black;
+  }
+  
+  footer {
+    background-color: #FBE5B1;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 55px;
+  }
+  
+  div {
+    text-align: center;
+  }

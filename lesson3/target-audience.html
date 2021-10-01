@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Monot&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/weather_siteplan.css">
+  <link rel="stylesheet" href="css/large.css">
+  <link rel="stylesheet" href="css/medium.css">
+  <link rel="stylesheet" href="css/normalize.css">
+  <title>Laura Salcedo WDD230 Week 2</title>
+</head>
+<body>
+    <header>
+      <h1>Target Audience</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Site Plan</a></li>
+          <li><a href="target-audience.html">Target Audience</a></li>
+          <li><a href="color-scheme.html">Color Scheme</a></li>
+          <li><a href="typography.html">Typography</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+    <h2>Target Audience</h2>
+    <p>The target audience of this website is people who need to know information about the current or future weather in their city or region. They will also find news about the weather in different parts of the world and will be able to prepare themselves for the day according to the information on the site. </p>
+    <h4>Persona One</h4>
+    <ul>
+        <li>Name: Michelle Mazo.</li>
+        <li>Age: 25 years old.</li>
+        <li>Income: $25.000 per year. </li>
+        <li>Occupation: Student.</li>
+        <li>Family Status: Lives with her college roommates.</li>
+        <li>Hobbies: She loves fashion, usually dresses according to the weather, also loves to travel. </li>
+        <li>Devices: She normally uses her smartphone, and her computer.</li>
+      </ul>
+      <img id="personaone" src="images/persona one- Michelle Mazo.jpg" alt="Michelle Mazo">
+    <h4>Persona Two</h4>
+    <ul>
+        <li>Name: Jason Smith.</li>
+        <li>Age: 22 years old.</li>
+        <li>Income: $42.000 per year. </li>
+        <li>Occupation: Tourist guide.</li>
+        <li>Family Status: Lives alone and is independent.</li>
+        <li>Hobbies: He usually dresses according to the weather, loves to travel, loves camping and hiking.  </li>
+        <li>Devices: She normally uses his smartphone, and his Ipod</li>
+      </ul>
+      <img id="personatwo" src="images/persona two- Jason Smith.jpg" alt="Jason Smith">
+      <hr>
+      <h4>Scenarios</h4>
+    <ul>
+      <li><h5>Scenario 1</h5>
+      <p>Will the site have a weather forecast for the week?
+      <li><h5>Scenario 2</h5>
+      <p>Will the news on the site be updated in real-time? </P></li>
+      <li><h5>Scenario 3</h5>
+      <p>Will the website alert users to any weather anomalies as hurricanes, tornadoes, or snowfall? </p></li>
+      <li><h5>Scenario 4</h5>
+      <p>Would it be okay to fly tomorrow?</p></li>  
+      <li><h5>Scenario 5</h5>
+      <p>What will the weather be like this weekend for hiking?</p></li>
+    </ul>
+</main>
+    <footer>
+        <p>&copy; 2021 | Laura Salcedo | Colombia | WDD230</p>
+        <div id="lastUpdate">
+        <p>Last Updated:  </p>
+        <p id="demo"></p>
+        <script>
+        var x = document.lastModified;
+        document.getElementById("demo").innerHTML = x;
+        </script>
+        </div>
+      </footer>
+</body>
+</html>
