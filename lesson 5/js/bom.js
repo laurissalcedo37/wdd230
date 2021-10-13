@@ -10,7 +10,7 @@ const input = document.querySelector("input");
         
 
         li.textContent = input.value;
-        dButton.textContent = "\u274C";
+        dButton.textContent = "❌";
 
         li.appendChild(dButton);
         list.appendChild(li);
