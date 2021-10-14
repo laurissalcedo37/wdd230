@@ -1,7 +1,6 @@
 const input = document.querySelector("input");
-    const num = document.getElementById("cTemp");
-    const button = document.querySelector("button");
-    const list = document.querySelector("ul");
+const button = document.querySelector("button");
+const list = document.querySelector("ul");
 
     button.addEventListener('click', function() {
 
