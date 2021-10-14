@@ -12,14 +12,14 @@ const input = document.querySelector("input");
         li.textContent = input.value;
         dButton.textContent = "❌";
 
-        li.appendChild(dButton);
-        list.appendChild(li);
-
         input.focus();
         input.value = '';
 
-        dButton.onclick = function(e) {
+        dButton.onclick = function(x) {
             list.removeChild(li);
         }
 
+        li.appendChild(dButton);
+        list.appendChild(li);
+       
     });
