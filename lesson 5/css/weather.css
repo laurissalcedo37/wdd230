@@ -12,7 +12,7 @@ main {
   background-color: #AADDCC ;
   text-align: center;
   font-size: 1.2em;
-  padding: 5px;
+  padding: 10px;
   font-weight: bold;
 }
 
@@ -27,7 +27,7 @@ header {
   align-items: center;
   justify-content: center;
   display: flex;
-  padding: 5px 0;
+  padding: 15px;
 }
 
 header img {
@@ -52,7 +52,6 @@ h3 {
   text-align: center;
 }
 nav {
-  width: 90%;
   margin: 0 auto;
   background-color: #DF6101;
   box-shadow: 0 2px 15px burlywood;
