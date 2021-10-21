@@ -1,5 +1,5 @@
-var windspeed = document.querySelector("#windspeed").innerHTML;
 var tempeture = document.querySelector("#tempeture").innerHTML;
+var windspeed = document.querySelector("#windspeed").innerHTML;
 
 var f = Math.round(35.74 + (0.6215 * tempeture) - (35.75 * Math.pow(windspeed, 0.16)) + (0.4275 * tempeture * Math.pow(windspeed, 0.16)));
 
