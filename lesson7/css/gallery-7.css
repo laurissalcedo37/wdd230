@@ -74,6 +74,8 @@ a {
     font-size: 15px;
     color: #022b42;
     text-align: center;
+    font-weight: bold;
+    font-family:monospace;
   }
   
   .container img {
