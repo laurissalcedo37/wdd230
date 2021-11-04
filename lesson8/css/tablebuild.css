@@ -2,16 +2,11 @@ body {
     margin: auto 0;
     font-family: Ubuntu, sans-serif;
   }
-  
-  h1 {
-    font-size: 20px;
-  }
-  
   caption {
     background-color: #7fB9C2;
     font-size: 25px;
     font-weight: bold;
-    padding: 8px;
+    padding: 10px;
     box-shadow: 6px 6px 12px #628CA6;
   }
   table {
@@ -24,14 +19,14 @@ body {
   th {
     background-color: #628CA6;
     font-weight: bold;
-    padding: 8px;
+    padding: 10px;
     border: solid 1px gray;
     color: white;
   }
   
   td {
     border: solid 1px gray;
-    padding: 5px;
+    padding: 8px;
   }
   
   tr:nth-child(1) {
@@ -58,7 +53,7 @@ body {
     background: #E7FFED;
   }
   
-  tr:nth-child(4) td:nth-child(3) {
+ #special {
     color: white;
     background-color: #628CA6;
   }
@@ -66,8 +61,8 @@ body {
   tfoot tr td {
     background-color: #7FB9C2;
     text-align: center;
-    font-size: 12px;
-    padding: 5px;
+    font-size: 14px;
+    padding: 8px;
   }
   
   
