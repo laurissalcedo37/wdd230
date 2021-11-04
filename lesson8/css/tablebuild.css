@@ -7,14 +7,14 @@ body {
     font-size: 25px;
     font-weight: bold;
     padding: 10px;
-    box-shadow: 6px 6px 12px #628CA6;
+    box-shadow: 5px 5px 10px #628CA6;
   }
   table {
     margin: 0 auto;
     text-align: center;
     border: solid 1px gray;
     border-collapse: collapse;
-    box-shadow: 6px 6px 12px #628CA6;
+    box-shadow: 5px 5px 10px #628CA6;
   }
   th {
     background-color: #628CA6;
@@ -29,30 +29,13 @@ body {
     padding: 8px;
   }
   
-  tr:nth-child(1) {
-    background: #E7F0ED;
+  tbody tr:nth-child(even) {
+    background-color: #e7ffed;
   }
   
-  tr:nth-child(3) {
-    background: #E7F0ED;
+  tbody tr:nth-child(odd) {
+    background-color: #e7f0ed;
   }
-  
-  tr:nth-child(5) {
-    background: #E7F0ED;
-  }
-  
-  tr:nth-child(2) {
-    background: #E7FFED;
-  }
-  
-  tr:nth-child(4) {
-    background: #E7FFED;
-  }
-  
-  tr:nth-child(6) {
-    background: #E7FFED;
-  }
-  
  #special {
     color: white;
     background-color: #628CA6;
