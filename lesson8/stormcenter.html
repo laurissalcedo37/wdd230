@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/stormcenter.css">
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/medium.css">
+  <link rel="stylesheet" href="css/large.css">
+  <title>Laura Salcedo WDD230 Week 8-Storm Center</title>
+</head>
+
+<body>
+    <div id="banner-top">Saturday = Preston Pancakes in the Park!  9:00 a.m. Saturday at the city park pavilion. </div>
+  <header>
+    <picture>
+      <img src="images/tenki clima news image.png" alt="Tenki Clima News">
+    </picture>
+    <h1>Tenki Clima News</h1>
+  </header>
+  <nav>
+    <ul class="navigation" id="navigation-items">
+      <li><a href="#" onclick="toggle()">&#9776; Menu</a></li>
+      <li><a href="#">Home</a></li>
+      <li><a class="actual" href="https://laurissalcedo37.github.io/wdd230/lesson6/preston-6.html">Preston</a></li>
+      <li><a href="#">Soda Springs</a></li>
+      <li><a href="#">Fish Haven</a></li>
+      <li><a href="#">Storm Center</a></li>
+      <li><a href="https://laurissalcedo37.github.io/wdd230/lesson7/gallery-7.html">Gallery</a></li>
+    </ul>
+  </nav>
+  <h2>Storm Center</h2>
+        <form method="get" action="thanks.html">
+            <fieldset>
+                <legend>Your Information</legend>
+                <label class="info">Full Name: <input type="text" name="name" pattern="^[a-zA-Z\s\-\.]{5,}$"
+                        required></label>
+                <label class="info">Email: <input type="email" name="email" placeholder="someone@gmail.com" required></label>
+                <label class="info">Phone: <input type="tel" name="phone" pattern="[0-9]*" required></label>
+                <label class="info">Zip Code: <input type="number" name="zip" required></label>
+            </fieldset>
+
+            <fieldset>
+                <legend>Storm Information</legend>
+                <label class="info">Storm Date<input type="date" name="stormDate"></label>
+                <label class="info">Storm Type <select name="stormType">
+                        <option selected disabled>Select Storm Type &#5121;</option>
+                        <option value="flashFlood">Flash Flood</option>
+                        <option value="hail">Hail</option>
+                        <option value="hurricane">Hurricane</option>
+                        <option value="thunderstorm">Thunderstorm</option>
+                        <option value="tornado">Tornado</option>
+                    </select></label>
+                <label class="storm_severity" for="severity">Storm Severity &nbsp;&nbsp;&nbsp;<input type="range" id="severity"
+                        min="1" max="10" value="5" step="1" list="tickmarks" oninput="adjustSeverity(this.value)"
+                        onchange="adjustSeverity(this.value)"></label>
+                <span id="severityValue">5</span>
+
+                <datalist id="tickmarks">
+                    <option value="0"></option>
+                    <option value="1"></option>
+                    <option value="2"></option>
+                    <option value="3"></option>
+                    <option value="4"></option>
+                    <option value="5"></option>
+                    <option value="6"></option>
+                    <option value="7"></option>
+                    <option value="8"></option>
+                    <option value="9"></option>
+                    <option value="0"></option>
+                </datalist>
+                <label class="info">Storm Region <select name="stormRegion">
+                    <option selected disabled>Select Region &#5121;</option>
+                    <option value="preston">Preston</option>
+                    <option value="sodasprings">Soda Springs</option>
+                    <option value="fishhaven">Fish Haven</option>
+                </select></label>
+
+                <div>Are you in danger?</div>
+                <label class="danger_level"><input type="radio" name="answer" value="yes"> Yes</label>
+                <label class="danger_level"><input type="radio" name="answer" value="no"> No</label>
+                <label class="danger_level"><input type="radio" name="answer" value="maybe"> Maybe</label>
+            </fieldset>
+
+            <fieldset>
+                <legend>Additional Information</legend>
+                <label class="info">Additional Comments <textarea name="moreInformation" rows="4" cols="50"></textarea></label>
+
+            </fieldset>
+
+            <input type="submit" value="Report Storm" class="submitButton">
+
+        </form>
+
+    </main>
+  <footer>
+    <div>
+        &copy; 2021 | Laura Salcedo | Colombia | WDD230 | <a href="https://www.byui.edu/online">BYUI Online
+        Learning</a> <br>
+        <date></date> 
+    </div>
+  </footer>
+  <script src="js/script.js"></script>
+  <script src="js/storm.js"></script>
+  </body>
+  
+  </html>
