@@ -1,0 +1,21 @@
+  main {
+    margin: auto;
+  }
+  body {
+    margin: 0 auto;
+    background-color: whitesmoke;
+    font-family: 'Roboto Monot', sans-serif;
+  }
+  h1 {
+    color: #022b42;
+    text-align: center;
+  }
+  footer{
+      text-align: center;
+  }
+  img{
+    height: 500px;
+    width: auto;
+    padding-right: 10px;
+    padding-left: 20px;
+  }
