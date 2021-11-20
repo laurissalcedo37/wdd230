@@ -19,8 +19,8 @@ fetch(apiURLForecast)
     console.log(jsObject);
 
     const dayHeadings = document.querySelectorAll("#days");
-    const temps = document.querySelectorAll("#temps");
-    const imgs = document.querySelectorAll("#imgs");
+    const temps = document.querySelectorAll("#tempday");
+    const imgs = document.querySelectorAll("#images");
 
     const dayOfWeek = ["Sun", "Mon", "Tue", "Wed", "Thur", "Fri", "Sat", "Sun"];
 
