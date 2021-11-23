@@ -1,0 +1,146 @@
+a {
+    color: black;
+    font-weight: bold;
+  }
+  main {
+    margin: auto;
+  }
+  #banner-top {
+    display: none;
+    background-color: #AADDCC ;
+    text-align: center;
+    font-size: 1.2em;
+    padding: 10px;
+    font-weight: bold;
+  }
+  
+
+  body {
+    margin: 0 auto;
+    background-color: whitesmoke;
+    font-family: 'Roboto Monot', sans-serif;
+  }
+  
+  header {
+    background-color:  #AADDCC;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 15px;
+  }
+  header img {
+    height: 80px;
+    width: auto;
+    padding-right: 10px;
+  }
+  
+  h1 {
+    color: #022b42;
+    display: flex;
+    align-items: center;
+  }
+  
+  h2 {
+    color: #022b42;
+    text-align: center;
+  }
+  img[data-src] {
+    filter: blur(0.4em);
+  }
+  
+  img {
+    filter: blur(0px);
+    transition: filter 0.5s;
+  }
+  
+  img[data-src] {
+    filter: blur(30px);
+  }
+  
+  .container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+  
+  .container figure {
+    box-shadow: 0 0 20px burlywood;
+    margin: 5px;
+    padding: 0;
+  }
+  
+  .container figcaption {
+    background-color: #AADDCC;
+    font-size: 15px;
+    color: #022b42;
+    text-align: center;
+    font-weight: bold;
+    font-family:monospace;
+  }
+  
+  .container img {
+    width: 100%;
+  }
+  
+  .sub-heading {
+    margin-top: -10%;
+    margin-left: 5%;
+    font-style: italic;
+    font-size: .9em;
+    letter-spacing: 1pt;
+    color: #DF6101;
+  }
+  
+  nav {
+    margin: 0 auto;
+    background-color: #DF6101;
+    box-shadow: 0 2px 15px burlywood;
+  }
+  .navigation {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+  }
+  
+  .navigation li:first-child {
+    display: block;
+  }
+  
+  .navigation li {
+    display: none;
+  }
+  
+  .navigation a {
+    display: block;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .navigation a:hover {
+    background-color: whitesmoke;
+    box-shadow: 0 2px 15px burlywood;
+  }
+  
+  .responsive li {
+    display: block;
+  }
+  
+  .actual {
+    font-style: italic;
+  }
+  footer{
+    background-color: #7da094;
+    color: #001F29;
+    text-align: center;
+    font-weight: bold;
+    margin: 0 auto;
+  }
+  .final {
+    background-color: #AADDCC;
+    padding: 15px 10px 15px 10px;
+  }
+  
+  footer div {
+    margin-top: 2%;
+  }
