@@ -188,15 +188,11 @@ a {
     font-style: italic;
   }
   footer{
-    background-color: #7da094;
+    background-color: #AADDCC;
     color: #001F29;
     text-align: center;
     font-weight: bold;
     margin: 0 auto;
-  }
-  .final {
-    background-color: #AADDCC;
-    padding: 15px 10px 15px 10px;
   }
   
   footer div {
