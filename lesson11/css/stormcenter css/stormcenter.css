@@ -45,6 +45,12 @@ a {
     color: #022b42;
     text-align: center;
   }
+  form{
+    width: 95%;
+    max-width: 900px;
+    border-radius: 10px;
+    padding: 1em;
+  }
   form fieldset {
     margin: 2rem 0;
     border: 1px dashed burlywood;
