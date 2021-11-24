@@ -129,12 +129,43 @@ a {
   .actual {
     font-style: italic;
   }
+  .content-section4 {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 15px 0 15px 0;
+  }
+  
+  .content-section4 img {
+    grid-template-columns: 1fr;
+    grid-column: 1;
+    grid-row: 1;
+    height: 200px;
+    margin: auto;
+    box-shadow:  burlywood;
+  }
+  
+  #contact-information {
+    grid-column: 1;
+    margin: auto;
+  }
+  
+  #contact-information p {
+    text-align: center;
+    color: black;
+  }
+  
   footer{
-  background-color: #AADDCC;
-  color: #001F29;
-  text-align: center;
-  font-weight: bold;
-  margin: 0 auto;
+    background-color: #7da094;
+    color: #001F29;
+    text-align: center;
+    font-weight: bold;
+    margin: 0 auto;
+  }
+  .final {
+    background-color: #AADDCC;
+    padding: 15px 10px 15px 10px;
   }
 
   footer div {
