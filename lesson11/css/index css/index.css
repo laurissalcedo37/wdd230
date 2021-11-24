@@ -158,6 +158,9 @@ a {
     text-align: center;
     color: black;
   }
+  #contact-information img{
+    width: 15%;
+  }
   
   footer{
     background-color: #7da094;

@@ -189,6 +189,11 @@ nav {
   color: black;
 }
 
+#contact-information img{
+  width: 12%;
+  height: 12%;
+}
+
 footer{
   background-color: #7da094;
   color: #001F29;
