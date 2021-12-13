@@ -1,0 +1,45 @@
+{
+    "businesses": [{
+        "business": "Cine Colombia",
+        "phone": "(1)7569898",
+        "address": "CARRERA 13 #38-85",
+        "logo": "https://confidencialcolombia.com/wp-content/uploads/2018/11/unnamed-840x440.png",
+        "website": "https://www.cinecolombia.com/"
+    }, {
+        "business": "El Tambor",
+        "phone": "(1) 3779220",
+        "address": " Km 12 Vía Bogotá La Calera, La Calera, Cundinamarca",
+        "logo": "https://cdn.shopify.com/s/files/1/0261/6233/1738/files/LOGO_EL_TAMBOR_-_short_300x.png?v=1587530588",
+        "website": "https://www.eltambordomicilios.com/"
+    }, {
+        "business": "Justo y Bueno",
+        "phone": "01-800-0413885",
+        "address": "Dg. 51A Sur ## 27 - 59, Bogotá",
+        "logo": "https://seeklogo.com/images/J/justo-bueno-logo-05B64BE48B-seeklogo.com.png",
+        "website": "https://monedero.justoybueno.com/home"
+    }, {
+        "business": "Homecenter",
+        "phone": " 01-800-0127373",
+        "address": "Ak 68 #37, Bogotá",
+        "logo": "https://bogota.gov.co/sites/default/files/2020-01/logo-homecenter_0.jpg",
+        "website": "https://www.homecenter.com.co/homecenter-co/"
+    }, {
+        "business": "D1",
+        "phone": "320 9984306",
+        "address": "Cl. 57 Sur ##19-43, Bogotá",
+        "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABKVBMVEXbBx7/////7QDZAAAAarTaAAb0xsjqkZXtoaXbAA3//f799PTzvsHphIraABPiWmHZAB//9ADbABn/8AD/9wAAX7sAZrf87/AAaLYAZLj2zM/smZ731Nf53+H65Obwr7PfOEQAYbrhR1Hyub3iUVr76OnkYWnmcnnvqKz30tTdITHgPUjqi5H83gUAXbzeLDrdHC3phYv1vQz3xQvxqBDjUxnodhblXxjEyVAweabndXxEgZ/hQxqTq3flanIAbLBdjZT//vL/+LjeKBzvnxL60wjqgBXtkBMec6re2TXbBTv+8qj5zAn/+87Oz0hPhpv/8E+zvmH/9Yygs228xFj/83b//N+AoIPi3C9tlY16nYXv5B6KpnypuGf/8mv/9p4pdqj/8Efys4pHjKH0AAAPDElEQVR4nN2d+0PbthbHQ5QAToiJ5QTCIwQSCFBaoI91HV1Z32vvRrvebuuD7m73/v9/xLXjl2yfI0uO5Dh8f9oKif3hSDpHR0dSZeGmqzLrF9CuLML145XlraXSamt5dLyen3DnaNwmruql1eT1zNWt7RyEB0u3nM/SyhyImoRUWn05wuN9QuaCLhA1yMmKOOH2kJizfmV5UXILYgQIm5fzyOeKkuGBAOGIGLN+0/wyyVYm4SWZ9VtOJzJscgmbZ3MOWKkYtM8h3DHntAeyomQTJezPl4dARRYRwoMbAuggboKEzcpNAXQaah8iPLkBfTAQpY00YWvuR1FWxn6KcPNGATpdcTlB2Lg5ndAXOYgT3qw26spcjREe3DjA0GX4hJcZ0bZJyqd6xthPdxlCvgkdvP2txZ1mo0Ra768sDTNm6V5o4xG2OCY0yXAUOpdyqTnY5TGaE4/hEeImpGSfk+WZvTZ3Oc1vMpxOCEfobxl0MeMRM9cAz0iQpQWfcIz9DlktaftktY6akd5a8Amx3yC3Z/zygkLzEmTHI8QCtnTOo6w6xAiOPMIt+OcJCx4MDndn7QJ9GcOLUTwbM66DCOalRwh3Q2PMfsWK43yM0oSu1CBkNZarOAMZ6LlHeA69OW0znz8+K18K1fHTO0wLQ9phwyVsgj9kEwGtcqY3zHCG5GgZpui7hCC+ybTRYWnDcnIZveUtyApO4OYQbkMAJGoBu3AvLoVIZIgVEGPkEkLOIphcOdovMaCD0ApfFBpOyMAlXAQIo4zjUmmbqCcSrjdBPdHpqQihEXxsp+SAztQgCCyh8QQlNMMevF86L5FU1E6BsQYldKOdifrCJnSdsB9xhP9RjI8hQXgDzHJxwmBOeCGylujCGScXyyvbB8HDGgf9laPW0CgCM/SKAwAEJQwqOLIBTULOWiMmuoipPzg0dVcE+PkYJ/KSIfQ/A7pKRgYxLkcZ9SwL20tnRKvHCZopMCpmEh7xCE1iXGyiXHFT3jU0GjJwbes5CPEMFSVkLJXgGO1qC96DcREIsDMJsfQGJe2trMaZ0vFQkx3rt/MTroKEJtkdyeJ5jCd8xjYrcULjrlpCSvYFex+glTbas9vtFw9f3nt1p2pX77y6/+D1jxVRSqOllJDcys/n6jbYHdvt7x7c6ViWbdtVR7ZtWZ3qvYcVIUalhHV20plPOyep57UrPzt4EzZWDuaDHwUYFRKa5KKJvrm4tuK9sV15aafxPFmd+9mMyggpGWIVjpLqnzMRQPth1YLxPEN2HmS1VVWEpJJvAIXUGAfPbFd+7XD4Jnasfs9HVENoKs5/+zna9ndVpH2y6rzkIqogpGQ1XdY4nRbdzth+zRrQH0ghM97XTDithwDVN8z2SwbQth69eYsivtJJqMBDgFr/FwPo8P3Q3XiKjjnWHW2EijwEpF/sGF+vVuuiRqxav6J9cSpCQ5mHSOsqMuC7CV+t1nuPOw7rAYY4DeF+XZ2HSOoZ8/L/rNU8nb7Dh9bOQwRxGsKBNr6Fhd+id7/u+oC13mOO97deqCfUqOfRm9sf9gLCWpdjRPs+bMSSErK2edwLCXs/cIzYgYObchL+mzHN27CRukZ8xDHinfkhZIaZqvW+xxDyjQgONqUk/JsB/Mia0DHi7xwjvpobQgbwURyw1nvDM+KPc0IYOXvr3Wktob0PuBFBt19Gwj8iwL0kYK32hjehmhPCsF+lLega8S9OYAM00xIS/hma8H0QrtXY8fQnTjP9OW3EEhL+EtrwbWDD3nvWiB/Rwca+NxeEYTesWk99I25UP20wjKgNIadfQsIo6LY/e77i9JF1zXiNDdyI1dTLlpGQ7VdfXCN2n1hV6xtjxDUUsJOeYJSbsHrt9MTu14nJGMKNJ5gRgcG05ITW143TbxMc6wmLiNnQ+n6WhI2D/vZO9rris9grX6/9HthrjSH8hhhxhoSbF+d+lclua4VfHp5458D7WR8ZI+5dh78Q844zI1w5i+pK3OqTS94eBqwFVhl/sfHJN6Jt/fWZ+ZXOdzMh3E4t7hpkiDNigPZfTJTavfb4Hr05/cK02JmMpTtjaNXTJJdYovW/KOJPjBGdAda23j7u9mqnn6OGaqWfpJuw2cKKLAwDqdb4D0r4IWZE6/PTUzdeXWNz4YXHNMucaiA62bSS1t8YYdV6w3j9L5+6/ugaZeBsIPWtlXDlnF81xZYpR7pCCe0PTOy2Fk08wuSNBSy06SS8yKyQIavQ51DCqvUPO42KWmyQgbOAhKJOQoGtp2QMfO43lND+vQsR9oJ5fwd4hNZW2souySMX6Y/9ghJWrR8gI27seatSYNpbKyG8VyPxZUfpz+GENpC5Wet+8wMbC0qY6h1L4Y0ciW9LL9Ch/sK6/rqW4vtyHXoL6Ps1ewuBffy0nQpT/0T4qp/2NuJ8vdOnn0M+aCTVTojvP2W+Lt0VobHGqj7ZSPJ1H7+zuAGNfsKFM4GSSpKqdICM+HEtwVfb++cRWy2FLAPrJhQ5UGOyXTWuP9KEa4lRdO+nD4lqMPjbtUfeIlsygHKOFGAsKHUcRO9jor4GW+bWTii0J4Ok5hnp0M16ExlxY+9bstzNAlKlxRAuHApsyiB3Ux9Lxd92uAy11v16ncxi2GhFjX5CoEYeQExPFlNO0V/ujjmI6IdoGWYBc3yR/W31VvpzyZnwZKGmd/r4LVBuiqzhF0TYyGnEFKL1dKMbdxAhIFZMUwwhf+dJ8J3Q7v6E47c/95IOwvt3aNJUKCG8CTcuakAfTLhFuADTqnJLoQshBDfhJr8UrCB7DhAlW+h9fh10MflSgcPezCH4yWf4dNgzoP1aY523uLJ2uU2+FdnDh6dt3GL9zEL2orL66AkwzLfCmTdHz69BPHfDxYvsDRcFEQqkbNxTKjBdJSNx27Y6r34W2jRT1MqMSMqGW4179XfYI+2Ofefe6xeCG5+KIhRI2WQXjD+7unr+/PnV/0hFYvdaYeuHyDE3jMz97G+ZCDoiQA+h3C7K7JSN6F9OfJP8tISHUoTZKRsieDKaSJJSDeFQrpA9M2VDRAvHpbYMT7ffQoowM2VTT8+DYbVldgxPRSh53FdWysaEFjEg7RZGaEKzOlxZI0R4/MG0fyqFhHVgXYWjjJRN7HgtngRiQFWEaLgMKytlI9qvRZJbqgiFvbSn23xEUUKhM1UUEQIZeZ4a3OiUF3vHVKQNK/RMhpCfsqHwJHjGhOJu2hMvZWOIjlvFElI5t89L2UDLwaCKHEsrvLk5KE7Khj9BZDQszuN7/ys1x8BTNsIDjUh2UimhAdb9oMIP7RWOAaUOslGxH1+4dU2EpmyI6KnExc2eAkIk1YkJSdkIjzMFzoDDUyOI1JlQyImoYAEYqOKyGCGh+BgxEZSyAcu/JD6vmVCihU2UStmYUnGDlDtUREgNqbPLkwf8kaGUw5G7TkTR+TTAQjxPsZSNIdkCJG/bUHYCj5QVmJQNJWPJkzWAIx6LIDQkRooFJg+R4+gXuW6o7pwo0WSnJ9+lGTmOfuHPMTUS0hOp93QnQBTfkcCRnDdUeZoZgS/6RLROKDk7lueTbqQKCYUzZZ5u5zybSC4oVUoosDoWe1Pp0zE9yQU0agnBqh/lkr6EWCUhVLqlWiKV4/oIw8vMNEoaUC2hKT4Dyqm7MyaskFzjv7jynHKvllAyPywtqWU1LYRIdZoq5bqJQTEhpRoB812kqZhQ5y1QOW9hVE2oz+03pVbvNRIKL69IqgHf2TQDQsn8sHZADYSSy8JiWj/Pfey+ekLJ/LCQprnVXQMhsFFrSh1Pc6mABkLZZeFMjaa6NUEHoWR+OEsZBRyzIFR7u+XqdIB6CCXzwzztnMtUJRRHKLksjGsw/cUleggl88OYogP2y0doyuWHYS3SaVuoRkLJ/DCkxqGaq3V0EUouC6c1MhTdc6WLUDI/nNTBvrK7kbQRihePpNVAj14qFWH+/PCgrvIiNn2EefPDm2dqL+/SSJgrP7w+Vn05mUbCHPnhBnyj1VTSSSi8uyDQwFQQwySlk1AyP7y9q+X2PK2EtCLOp74D+tJKKJEfXiIqYlBIeglF88MjqqED+tJMKJQf7mdc7TidNBMK5Iebl9quIJ1IN2FmfnhLWwf0pZswY9sQ515OVdJOyFsW7uu6P5ZVfYqbVsU256D54eaF3g4YPH8rP6FYeRJ88gz/eFqVCvIpeQgFqwTBbUOLt7R3wODx/iZQqVurG+hfBX5GKj+8oy5JkaVw55nUzePBGwvuOE7mh5UmKTIfHqQapG6PD+Z9IidbTj4Qc/tHBXXAxLOB8nCcMKytF9wXwG4b2jwrqgMmHg3cBI8SmmGrEzZisCx8sFpYB/SfHDYfYEsfSliphxYR7In+srCOJAVf0emvUDUOThil7JuGmEkmDXtgFNpAHZlRQAVutjpyCaFSKyac3hZsdfWFbcVZQgFRM/JT58DDnXCrgmz2YwZHwSoCWjxfxaRRxhbcYe0MDxXkpAc2FbqTcXi+r8L5KuSESTCAW4cdQzmEDTC8js2JiomgJWXEgkW4PJw0XUK4apVW2HWX/pgU3wZ5Mgm5YENFuKzRXQF0CeFjNox4yv5geUhKpNWjeAYMPsDJ9esuIbIZLl1RsrO5UgptplaExvjeapcQqx7XWCurWIcYQd8jRE8wUFoXpFFYQcdkIX5CeBubCpBVpdVderS+izmzumuhCSG+wd+g6gstFWuAe7JJ2OKtrJygnoCSfSWlQbq0iRowmFd5hLw5kkmGo5K21eYRN1L0pg/+6hgUtTKMZH9rsd9slEjN/srSkB+F+BM6nzBromvO2sMDqmcEWf4MMFjhFLmHY74UZDcCQpGznOdLwfwvXKVu3TDEcOIRrcNzB5u5kxlWiUSEefY2llY0ysIztRQiZ+PPi5j5O1stIr0RvrRi1/ti9TC5dnCWULHK13jFz81AjJ/3k6hpUrA3YNaiiQL0ZNXWse7CCd0yaKL6JVWX1tyf65ZKxsl5EFB5Nyh09U+p6kCtJFRb2LyYz6ZqkBYwkYWrJw8OS5YAzhYl5AIsO8fqQ9e3zjMnYOURrZPzLWQ3HacCdntp15lnGial5SWl1DScl9xdwpNJ/Brf5vFRa/XknBolFW2frLaWN7klrhJVzHOqm0/4fxaPg7kwguUkAAAAAElFTkSuQmCC",
+        "website": "https://domicilios.tiendasd1.com/?utm_source=google&utm_medium=sem&utm_campaign=domicilios&utm_term=clicks_cpc&utm_content=sem-julio&gclid=CjwKCAiA-9uNBhBTEiwAN3IlNEcEsL42bEWFroq8MJkz38DZ31CRIgDTFv4BswmjTB07duB_IBCmthoCFx0QAvD_BwE"
+    }, {
+        "business": "Exito",
+        "phone": "(1) 7424666",
+        "address": "Calle 47 B Sur # 24 B 33 Centro Comercial, Cl. 47b Sur ##24b-33, Bogotá",
+        "logo": "https://exitocol.vtexassets.com/assets/vtex.file-manager-graphql/images/1a3b0a6c-9865-4fc6-80ad-316a2fd748fd___50dc4199e8020554de79a91123175966.svg",
+        "website": "https://www.exito.com/?gclid=CjwKCAiA-9uNBhBTEiwAN3IlNEHVchmUxLO1qBu3BKY_d-eMFYOHJe-kORWByDb5CkvBHdWEmgMR_hoCU64QAvD_BwE&gclsrc=aw.ds"
+    }, {
+        "business": "Crepes & Waffles",
+        "phone": "(1) 6767610",
+        "address": "Heladería Crepes & Waffles Centro Mayor, Local 3-053 Piso 3, Bogotá, Cundinamarca",
+        "logo": "https://crepesywaffles.com/themes/custom/tecsua/logo.svg",
+        "website": "https://crepesywaffles.com/"
+    }]
+}

@@ -1,0 +1,237 @@
+a {
+    color: black;
+    font-weight: bold;
+  }
+  
+  main {
+    margin: auto;
+  }
+  
+  #banner-top {
+    display: none;
+    background-color: #1B998B ;
+    text-align: center;
+    font-size: 1.2em;
+    padding: 10px;
+    font-weight: bold;
+  }
+  
+  body {
+    margin: 0 auto;
+    background-color: #f8f1ff;
+    font-family: 'Oswald', sans-serif;
+  }
+  p{
+    font-family: 'Lora', sans-serif;
+  }
+  header {
+    background-color:  #1B998B;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 15px;
+  }
+  
+  header img {
+    height: 80px;
+    width: auto;
+    padding-right: 10px;
+  }
+  h1 {
+    color: #022b42;
+    display: flex;
+    align-items: center;
+  }
+  
+  h2 {
+    color: #022b42;
+    text-align: center;
+  }
+  
+  h3 {
+    color: #657176;
+    text-align: center;
+  }
+  nav {
+    margin: 0 auto;
+    background-color: #decef5;
+    box-shadow: 0 2px 15px #bbaad3;
+  }
+  
+  .navigation {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+  }
+  
+  .navigation li:first-child {
+    display: block;
+  }
+  
+  .navigation li {
+    display: none;
+  }
+  
+  .navigation a {
+    display: block;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .navigation a:hover {
+    background-color: #f8f1ff;
+    box-shadow: 0 2px 15px #bbaad3;
+  }
+  
+  .responsive li {
+    display: block;
+  }
+  #wireframe {
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  
+  #wireframe a {
+    color: #656176;
+  }
+  .actual {
+    font-style: italic;
+  }
+  .advertisement{
+    display: grid;
+  }
+ .advertisement-1{
+    background-color: #decef5;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+ }
+ .advertisement-2{
+    background-color: #decef5;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+ }
+ .advertisement-3{
+    background-color: #decef5;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+ }
+  .advertisement img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+  }
+
+  form{
+    width: 95%;
+    max-width: 900px;
+    border-radius: 10px;
+    padding: 1em;
+  }
+  form fieldset {
+    margin: 2rem 0;
+    border: 1px dashed #decef5;
+    border-radius: 8px;
+    padding: .5rem 2%;
+  }
+  form label.info, form div {
+    display: block;
+    padding-top: 1rem;
+    font-size: .8rem;
+  }
+  
+  form legend {
+    color: #1B998B;
+    margin: 0 1rem;
+    padding: 0 .5rem;
+  }
+  
+  form label.info input, form label.info select, form label.info textarea {
+    -webkit-appearance: none;
+    display: block;
+    font-size: 1rem;
+    border: solid 1px #decef5;
+    border-radius: 4px;
+    padding: .75rem;
+    color: grey;
+    width: 100%;
+    max-width: 20rem;
+    background-color: rgba(0, 126, 126, 0.1);
+  }
+  
+  form label.danger_level {
+    display: block;
+    padding: .75rem 0;
+    color: grey;
+  }
+  .storm_severity {
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #severityValue {
+    margin: 0 15px;
+  }
+  
+  form input.submitButton {
+    border: none;
+    background-color: #1B998B;
+    color: #decef5;
+    border-radius: 1rem;
+    padding: .75rem 1.5rem;
+    margin: 0 0 2rem 2%;
+    width: 96%;
+    max-width: 20rem;
+  }
+  .content-section4 {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 15px 0 15px 0;
+  }
+  
+
+  .content-section4 img {
+    grid-template-columns: 1fr;
+    grid-column: 1;
+    grid-row: 1;
+    height: 200px;
+    margin: auto;
+    box-shadow: #decefb;
+  }
+  
+  #contact-information {
+    grid-column: 1;
+    margin: auto;
+  }
+  
+  #contact-information p {
+    text-align: center;
+    color: black;
+  }
+  #contact-information img{
+    width: 12%;
+    height: 12%;
+  }
+  
+  footer{
+    background-color: #1B998B;
+    color: #001F29;
+    text-align: center;
+    font-weight: bold;
+    margin: 0 auto;
+  }
+  .final {
+    background-color: #1B998B;
+    padding: 15px 10px 15px 10px;
+  }
+  
+  footer div {
+    margin-top: 2%;
+  }
